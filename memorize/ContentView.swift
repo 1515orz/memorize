@@ -8,11 +8,9 @@
 import SwiftUI
 import SwiftData
 
-
+//test
 
 struct ContentView: View {
-    
-    //    @Environment(\.modelContext) private var modelContext
     //    @Query private var items: [Item]
     let emojis = ["🥲", "😂", "😎", "🥵","😍"]
     
